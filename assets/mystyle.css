@@ -1,0 +1,19 @@
+ tr td{
+  font-size: 15px
+ }
+ #noSearch{
+  font-size: 15px
+ }
+ .not-bold {
+    font-weight:normal !important;
+    /*text-align: right;*/
+  }
+  .upp{
+    margin-top: -20px;
+  }
+  .uppHead{
+    margin-top: -10px;
+  }
+  .bott{
+    margin-bottom: -5px
+  }
